@@ -21,6 +21,12 @@ switch(command) {
 }
 
 
+// Organize Funcction ke Functions
+// 1. input -> directory path given
+// 2. create -> organized_files -> directory
+// 3. identify categories of all the files present in that directory
+// 4. copy/cut files to that organized directory inside of any category folder
+
 
 
 
